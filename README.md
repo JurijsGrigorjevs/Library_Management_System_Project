@@ -1,5 +1,5 @@
 # Library-Management-System-Project
-Library Management System Project
+
 ![Static Badge](https://img.shields.io/badge/SQL-blue)
 
 ## **Introduction**
